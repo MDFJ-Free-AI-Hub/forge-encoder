@@ -2,5 +2,5 @@
   "model": "bert",
   "author": "Google Research",
   "license": "Apache-2.0",
-  "ai": "encoder"
+  "type": "encoder"
 }
