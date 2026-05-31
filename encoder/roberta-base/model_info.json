@@ -1,0 +1,16 @@
+{
+  "name": "roberta-base",
+  "author": "facebook",
+  "task": "Fill-Mask",
+  "framework": "PyTorch",
+  "license": "MIT",
+  "tags": [
+    "encoder",
+    "bert",
+    "nlp",
+    "embeddings"
+  ],
+  "architecture": "encoder",
+  "platform": "Aiva AI Forge",
+  "created_at": "2026-05-31T22:01:59.802Z"
+}
